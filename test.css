@@ -50,8 +50,11 @@ border: 1px solid lightblue;
     display: none;
 
 }
-.navbar-toggler{
-  display: none;
-}
 
+
+}
+@media(min-width:768px){
+  .navbar-toggler{
+    display: none;
+  }
 }
